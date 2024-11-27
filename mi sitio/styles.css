@@ -1,0 +1,35 @@
+
+#main-header {
+    background-color: #ef96b2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#main-footer {
+    background-color: #4a004e;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.subtitle {
+    font-size: 1.5em;
+    color: #ef33d2;
+}
+
+.text {
+    font-size: 1.2em;
+    color: #555;
+}
+
+.image {
+
+    margin: 20px auto;
+    border: 2px solid #ef96b2;
+    border-radius: 10px;
+    width: 300px;
+}
